@@ -1,1 +1,1 @@
-# Snack-Squad-app
+# Snack squad Application 
